@@ -14,6 +14,6 @@
 
 Все основные настройки приложения (включая отображаемое название и ссылки для перенаправления) выполняются через саму же ссылку
    # Ссылка на подписку для VPN-клиента - пример
-   *https://werhes.github.io/redirect-to-page-or-vpn/?redirect_to=happ://install-sub?url=URL&name=Подписка*
+   {*https://werhes.github.io/redirect-to-page-or-vpn/?redirect_to=ВАШЕ_ПРИЛОЖЕНИЕ_ДЛЯ_VPN://install-sub?url=ВАША_ССЫЛКА_НА_ПОДПИСКУ&name=ВАШЕ_ИМЯ_ПОДПИСКИ*}
 
-   
+   # 😉 Как настроить:
